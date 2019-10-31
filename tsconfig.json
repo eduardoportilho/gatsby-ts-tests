@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["dom"],
+    "jsx": "preserve",
+    "sourceMap": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "strictBindCallApply": false,
+    "strictFunctionTypes": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
